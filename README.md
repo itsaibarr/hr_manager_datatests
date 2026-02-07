@@ -86,16 +86,6 @@ Protected attributes are never scored or referenced.
 
 ---
 
-## 📁 Project Structure
-
-.
-├── sample.ipynb # End-to-end pipeline demo
-├── clean_2d_animator_evaluation_dataset.csv
-├── README.md
-
-
----
-
 ## 🚀 How to Run
 
 1. Open `sample.ipynb`
